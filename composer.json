@@ -1,0 +1,11 @@
+{
+    "name": "nicholasrbowers/heroku-buildpack-wordpress",
+    "description": "Buildpack for getting WordPress to compile on Heroku.",
+    "authors": [
+        {
+            "name": "NicholasRBowers",
+            "email": "nicholas.ryan.bowers@gmail.com"
+        }
+    ],
+    "require": {}
+}
